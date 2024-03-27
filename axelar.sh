@@ -1,16 +1,16 @@
 #!/bin/bash
 
 RPC_URLS=(
-    "https://tm.axelar.lava.build/lava-referer-d169b15b-5984-454f-9b1f-f908bae1443e/",
-    "https://tm.axelar-testnet.lava.build/lava-referer-d169b15b-5984-454f-9b1f-f908bae1443e/",
-    "https://tm.axelar.lava.build/lava-referer-1802659e-6abe-41f5-9ea5-db37d5eb00af/",
-    "https://tm.axelar-testnet.lava.build/lava-referer-1802659e-6abe-41f5-9ea5-db37d5eb00af/",
-    "https://tm.axelar.lava.build/lava-referer-97547cf9-6b48-48ec-aef8-a62bf9a841b4/",
-    "https://tm.axelar-testnet.lava.build/lava-referer-97547cf9-6b48-48ec-aef8-a62bf9a841b4/",
-    "https://tm.axelar.lava.build/lava-referer-1ae8cb7b-9a3d-4b3f-9a02-725e513f6c67/",
-    "https://tm.axelar-testnet.lava.build/lava-referer-1ae8cb7b-9a3d-4b3f-9a02-725e513f6c67/",           
-    "https://tm.axelar.lava.build/lava-referer-f0e1b816-37da-4a4c-86aa-d4082739bb3d/",
-    "https://tm.axelar-testnet.lava.build/lava-referer-f0e1b816-37da-4a4c-86aa-d4082739bb3d/"
+    "https://tm.axelar.lava.build/lava-referer-04151628-ae45-4a00-b919-f9700e928085/",
+    "https://tm.axelar-testnet.lava.build/lava-referer-04151628-ae45-4a00-b919-f9700e928085/",
+    "https://tm.axelar.lava.build/lava-referer-7acd10b1-e83d-4cec-b687-d76b91ccde2c/",
+    "https://tm.axelar-testnet.lava.build/lava-referer-7acd10b1-e83d-4cec-b687-d76b91ccde2c/",
+    "https://tm.axelar.lava.build/lava-referer-e66ef502-4c41-4823-a449-f7487461eece/",
+    "https://tm.axelar-testnet.lava.build/lava-referer-e66ef502-4c41-4823-a449-f7487461eece/",
+    "https://tm.axelar.lava.build/lava-referer-596bbb20-0ec3-40d7-a03b-a141fee7018b/",
+    "https://tm.axelar-testnet.lava.build/lava-referer-596bbb20-0ec3-40d7-a03b-a141fee7018b/",           
+    "https://tm.axelar.lava.build/lava-referer-a781dad6-d1c0-4a63-8db4-5fa847767924/",
+    "https://tm.axelar-testnet.lava.build/lava-referer-a781dad6-d1c0-4a63-8db4-5fa847767924/"
 )
 
 OUTPUT_DIR="logs"
