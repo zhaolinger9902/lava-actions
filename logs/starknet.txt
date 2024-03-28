@@ -619,3 +619,13 @@
 {"jsonrpc":"2.0","id":"\"1\"","result":966936}
 {"jsonrpc":"2.0","id":"\"1\"","result":628088}
 {"jsonrpc":"2.0","id":"\"1\"","result":966936}
+{"error":"{\"Error_GUID\":\"15028158485868811244\",\"Error\":\"Failed all retries {GUID:15028158485868811244,error:No pairings available.,chain_id:STRK}\"}"}
+{"jsonrpc":"2.0","id":"\"1\"","result":966938}
+{"jsonrpc":"2.0","id":"\"1\"","result":628090}
+{"jsonrpc":"2.0","id":"\"1\"","result":966938}
+{"jsonrpc":"2.0","id":"\"1\"","result":628090}
+{"jsonrpc":"2.0","id":"\"1\"","result":966938}
+{"jsonrpc":"2.0","id":"\"1\"","result":628090}
+{"jsonrpc":"2.0","id":"\"1\"","result":966938}
+{"jsonrpc":"2.0","id":"\"1\"","result":628090}
+{"jsonrpc":"2.0","id":"\"1\"","result":966938}
