@@ -1359,3 +1359,8 @@
 {"error":"{\"Error_GUID\":\"4921273046839976557\",\"Error\":\"Failed all retries {GUID:4921273046839976557,error:rpc error: code = Unknown desc = Failed to VerifyPairing for new consumer {Error:rpc error: code = InvalidArgument desc = invalid pairing data: VerifyPairing requested epoch is too new ErrMsg: cant get epoch start for future block {requested block:996660,requested epoch:996660,current epoch:996600}: cant get epoch start for future block: invalid request,GUID:4921273046839976557,sessionID:8209757427429842422,consumer:lava@1mh9d3vdthekxvc0aflnvzhurv2585aakzs9e3a,provider:lava@1tq8ngq6sh3k9wlysmp6hswnlt38hcctaqkwcjm,relayNum:4,Providers block:996656},chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"15342798690001489598\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:15342798690001489598}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x0"}
+{"error":"{\"Error_GUID\":\"5844945609926512959\",\"Error\":\"Failed all retries {GUID:5844945609926512959,error:No pairings available.,chain_id:ETH1}\"}"}
+{"jsonrpc":"2.0","id":1,"result":"0x5e745b2bc"}
+{"error":"{\"Error_GUID\":\"7409219591463449113\",\"Error\":\"Failed all retries {GUID:7409219591463449113,error:No pairings available.,chain_id:ETH1}\"}"}
+{"error":"{\"Error_GUID\":\"9823485552824679849\",\"Error\":\"Failed all retries {GUID:9823485552824679849,error:No pairings available.,chain_id:ETH1}\"}"}
+{"error":"{\"Error_GUID\":\"12361379326957813591\",\"Error\":\"Failed all retries {GUID:12361379326957813591,error:No pairings available.,chain_id:ETH1}\"}"}
