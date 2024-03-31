@@ -1244,3 +1244,8 @@
 {"jsonrpc":"2.0","id":1,"result":"0x470a3d81c"}
 {"jsonrpc":"2.0","id":1,"result":"0x470a3d81c"}
 {"jsonrpc":"2.0","id":1,"result":"0x470a3d81c"}
+{"error":"{\"Error_GUID\":\"558556511673613493\",\"Error\":\"Failed all retries {GUID:558556511673613493,error:No pairings available.,chain_id:ETH1}\"}"}
+{"error":"{\"Error_GUID\":\"14730633532362830915\",\"Error\":\"Failed all retries {GUID:14730633532362830915,error:rpc error: code = DeadlineExceeded desc = context deadline exceeded,chain_id:ETH1}\"}"}
+{"error":"{\"Error_GUID\":\"18057562491892212032\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:18057562491892212032}\"}"}
+{"error":"{\"Error_GUID\":\"11790866332801522852\",\"Error\":\"Failed all relay retries due to timeout consider adding 'lava-relay-timeout' header to extend the allowed timeout duration {GUID:11790866332801522852}\"}"}
+{"error":"{\"Error_GUID\":\"3813917545138966601\",\"Error\":\"Failed all retries {GUID:3813917545138966601,error:No pairings available.,chain_id:ETH1}\"}"}
